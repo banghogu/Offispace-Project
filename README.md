@@ -46,11 +46,12 @@
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<img width="800" alt="Offispace-Info" src="https://github.com/4bujak-4bujak/frontend/assets/104253583/1ccfa4bf-421a-4865-b717-56a120b02f49">
+<img width="800" alt="Offispace-Info" src="https://github.com/4bujak-4bujak/frontend/assets/104253583/1ccfa4bf-421a-4865-b717-56a120b02f49"><br/><br/>
 
-# 나의 담당 기능
+
+## 💻 나의 담당 기능
 
 ### **로그인/회원가입**
 
